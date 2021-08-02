@@ -1,1 +1,1 @@
-this is gigsakos fir git project!
+this is gigsakos first git project!
